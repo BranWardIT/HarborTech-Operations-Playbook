@@ -98,4 +98,3 @@ Include terms such as:
 - Region - A virtual separation of computational resources based on the physical part of the world those computational resources are located in
 - IAM - Identity and Access Management; AWS service to create and manage sets of permissions that users and services can be placed within to efficiently control what they're allowed to do on a very granular level 
 - Operations Playbook - A diligently written and organized knowledge base of previous tickets including detailed troubleshooting steps, associated findings, root problems, and their specific resolutions
-- 
