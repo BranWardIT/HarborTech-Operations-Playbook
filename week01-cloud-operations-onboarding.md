@@ -1,51 +1,6 @@
 # Week 1: Cloud Operations Onboarding
 
 ## HarborTech Ticket Summary
-The purpose of this task is to investigate the bounds of AWS Academy's Learner Lab.
-
-## Client Impact
-This onboarding task has no potential client impact.
-
-## AWS Services Involved
-This task involves the Identity & Access Management (IAM) service.
-
-## Virtualization Connection
-This week's activity is to find the bounds of what I as an intern am allowed to do within AWS Academy's Learner Lab. This relates to managed cloud services because all cloud admins also have vendor or employer-imposed restrictions that must be found and worked within. 
-
-## Evidence Reviewed
-I opened the AWS Academy website (https://awsacademy.instructure.com), confirmed that "AWS Academy Learner Lab" is one of my available courses, and that I can see and access the "AWS Academy Learner Lab" Module.
-I clicked on the "Launch AWS Academy Learner Lab" link within the above mentioned module, opened the readme, and confirmed the "Region restriction" subsection lists "us-east-1" and "us-west-2" as the only two available Regions under normal circumstances.
-I located the "AWS Identity and Access Management (IAM)" subsection within the readme and confirmed that IAM is restricted to disallow creation of users, groups, and any roles that aren't service-linked roles.
-The "Environment Overview" subsection states that when the session timer reaches "0" within Learner Lab, the current active session is forced to end without deleting any data or resources that were created.
-The above subsection also states that remaining lab budget can take 8-12hrs to reflect all charges that have been incurred in the Learner Lab and that if the lab budget reaches $0 my lab account will be disabled and all saved data within the Learner Lab will be lost.
-The "Environment Navigation" subsection states that the "Reset" button within the Learner Lab UI will revert my instance to it's state at time of creation, erasing all changes I've made without resetting the lab budget.
-
-Document the evidence you reviewed. Your weekly skeleton will suggest likely evidence sources, but you should include the evidence that actually informed your conclusion.
-
-## Operational Analysis
-
-Explain what the evidence shows. Separate findings from assumptions and connect the evidence to the likely cause or decision.
-
-## Recommendation
-
-State the next operational action supported by the evidence. Keep the recommendation within the HarborTech intern role.
-
-## Escalation Notes
-No issues were encountered during investigation, so no escalation is required for this task.
-
-## Lessons Learned
-
-Explain what the investigation taught you about cloud operations and the week's technical concepts.
-
-## Professional Vocabulary
-
-Define the important weekly terms in your own words and connect them to the work you completed.
-
-
-
-# Week 1: Cloud Operations Onboarding
-
-## HarborTech Ticket Summary
 Ticket ONB-2026-0001 is for me as a new HarborTech intern to verify I have access to the Learner Lab environment, that I have an understanding of the lab's purpose and restrictions, and that I know where official AWS documentation can be found for reference.
 
 ## Client Impact
